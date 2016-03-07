@@ -41,7 +41,7 @@
             android:textColorHint="#bdbdbd"
             android:background="#424242"
             android:padding="7dp"
-            android:hint="Username"
+            android:hint="Password"
             android:layout_centerVertical="true"
             android:layout_alignParentEnd="true" />
 
