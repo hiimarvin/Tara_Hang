@@ -1,4 +1,4 @@
-package mobapde.medina.arvin.tarahang;
+package mobapde.medina.arvin.activities;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
